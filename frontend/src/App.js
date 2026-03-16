@@ -98,7 +98,7 @@ function App() {
       </main>
 
       <footer className="app-footer">
-        <p>Powered by Claude AI &nbsp;|&nbsp; © 2024 Japan Travel Planner</p>
+        <p>Powered by Claude AI &nbsp;|&nbsp; © 2026 구름 Japan Travel Planner</p>
       </footer>
     </div>
   );
